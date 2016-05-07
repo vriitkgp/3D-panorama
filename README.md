@@ -17,6 +17,8 @@ http://grail.cs.washington.edu/projects/multipano/agarwala_sig06.pdf
 ### OpenCV
 http://docs.opencv.org/2.4/modules/stitching/doc/introduction.html<br>
 
+## Similar Online Materials
+https://www.holobuilder.com/virtual-tours?ref=gvr
 
 ## Request
 Please complete these and let me know what we can do
